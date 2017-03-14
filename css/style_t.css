@@ -1,0 +1,9 @@
+
+button.sheen:before {
+  -webkit-transform: skewY(10deg) translateY(-120px);
+          transform: skewY(10deg) translateY(-120px);
+}
+button.sheen:after {
+  -webkit-transform: translateY(-120px);
+          transform: translateY(-120px);
+}
